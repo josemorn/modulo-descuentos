@@ -1,0 +1,10 @@
+
+> modulo-descuentos@1.0.0 lint
+> eslint src/
+
+
+/home/claude/repo/src/descuentos.js
+  7:5  warning  Unexpected console statement  no-console
+
+✖ 1 problem (0 errors, 1 warning)
+
