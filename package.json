@@ -1,0 +1,16 @@
+{
+  "name": "modulo-descuentos",
+  "version": "1.0.0",
+  "description": "Auditoría estática de un módulo JavaScript de descuentos (VVS, Unidad 1)",
+  "main": "src/descuentos.js",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5"
+  }
+}

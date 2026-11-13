@@ -1,0 +1,16 @@
+
+> modulo-descuentos@1.0.0 lint
+> eslint src/
+
+
+/home/claude/repo/src/descuentos.js
+  2:3   error    Unexpected var, use let or const instead  no-var
+  3:13  error    Expected '===' and instead saw '=='       eqeqeq
+  3:22  error    Expected { after 'if' condition           curly
+  4:25  error    Expected { after 'if' condition           curly
+  4:25  warning  Unexpected console statement              no-console
+  5:3   error    Unexpected var, use let or const instead  no-var
+
+✖ 6 problems (5 errors, 1 warning)
+  4 errors and 0 warnings potentially fixable with the `--fix` option.
+
